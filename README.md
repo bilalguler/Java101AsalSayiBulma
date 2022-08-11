@@ -4,7 +4,7 @@
 
 * [**LinkedIn Profil Linkim**](https://www.linkedin.com/in/bilal-guler/)
 
-* Bu programım 1-100 arasında olan asal sayıları buluyor ve onların çıktısını alıyor.7
+* Bu programım 1-100 arasında olan asal sayıları buluyor ve onların çıktısını alıyor.
 
 ## *Kodlarım*
 
